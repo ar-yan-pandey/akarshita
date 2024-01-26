@@ -1,0 +1,47 @@
+@media screen and (max-width: 735px) {
+    .aboutpage{
+        background-position-x: -2120px;
+        
+    }
+    .work{
+        background-position-x: -2280px;
+        
+    }
+    .bio{
+        width: 70%;
+        color: rgb(211, 210, 210);
+        filter: drop-shadow(0px 0px 5px black);
+    }
+    .bio2{
+        width: 70%;
+        color: rgb(211, 210, 210);
+        filter: drop-shadow(0px 0px 5px black);
+        background-color: rgba(0, 0, 0, 0.212);
+        box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.212) ;
+    }
+
+    .name2{
+        background-color: rgba(0, 0, 0, 0.212);
+        box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.212) ;
+        
+        margin: 0;
+        filter: drop-shadow(5px 5px 5px black);
+
+    }
+
+    .prename2{
+        background-color: rgba(0, 0, 0, 0.212);
+        box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.212) ;
+
+        filter: drop-shadow(2px 2px 5px black);
+        margin-bottom: 5vh;
+    }
+
+    .footer{
+        font-size: 12px;
+    }
+
+    
+  }
+
+  
